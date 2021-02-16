@@ -1,0 +1,6 @@
+{
+	"pack": {
+		"description": "For version 1.16. \nThis datapack 'pauses' the world time when no player is online",
+		"pack_format": 6
+		}
+}
