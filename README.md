@@ -5,7 +5,7 @@ Minecraft datapack that 'pauses' the worlds when no players are online. This use
 The datapack files can be downloaded from [here](https://github.com/Electrenator/PauseWhenEmpty/releases)
 
 ## Installing
-Put the PauseWhenEmpty folder or zip, when downloaded, into the `datapacks` folder of your world save. This will activate PauseWhenEmpty automatically on the next startup.  
+Extract the zip when downloaded. Then put the PauseWhenEmpty folder into the `datapacks` folder of your world save. This will activate PauseWhenEmpty automatically on the next server startup.  
 In the case your server is already running, just run the `/minecraft:reload` command and it should start. (Note: on a unmodified Minecraft server the command for this is `/reload`)
 
 ## Removing
